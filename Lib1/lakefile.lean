@@ -11,4 +11,4 @@ lean_lib «AB» where
 @[default_target]
 lean_lib «AC» where
   srcDir := "src/ac"
-  roots := #[`A]
+  roots := #[`A.C]
